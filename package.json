@@ -1,0 +1,22 @@
+{
+  "name": "pwa-shopping-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RainbowBunchie/pwa-shopping-list.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RainbowBunchie/pwa-shopping-list/issues"
+  },
+  "homepage": "https://github.com/RainbowBunchie/pwa-shopping-list#readme",
+  "dependencies": {
+    "firebase": "^6.0.2"
+  }
+}

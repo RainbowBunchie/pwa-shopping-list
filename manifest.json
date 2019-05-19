@@ -1,0 +1,16 @@
+{
+  "short_name": "Shopping",
+  "name": "Shopping App",
+  "icons": [
+    {
+    "src":"images/icon192x192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000",
+  "theme_color": "#536878",
+  "display": "standalone",
+  "gcm_sender_id": "103953800507"
+}
